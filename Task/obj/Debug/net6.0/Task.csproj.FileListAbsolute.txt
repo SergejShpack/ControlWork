@@ -1,0 +1,15 @@
+/Users/sergejnikolaev/Desktop/ControlWork/Task/bin/Debug/net6.0/Task
+/Users/sergejnikolaev/Desktop/ControlWork/Task/bin/Debug/net6.0/Task.deps.json
+/Users/sergejnikolaev/Desktop/ControlWork/Task/bin/Debug/net6.0/Task.runtimeconfig.json
+/Users/sergejnikolaev/Desktop/ControlWork/Task/bin/Debug/net6.0/Task.dll
+/Users/sergejnikolaev/Desktop/ControlWork/Task/bin/Debug/net6.0/Task.pdb
+/Users/sergejnikolaev/Desktop/ControlWork/Task/obj/Debug/net6.0/Task.csproj.AssemblyReference.cache
+/Users/sergejnikolaev/Desktop/ControlWork/Task/obj/Debug/net6.0/Task.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sergejnikolaev/Desktop/ControlWork/Task/obj/Debug/net6.0/Task.AssemblyInfoInputs.cache
+/Users/sergejnikolaev/Desktop/ControlWork/Task/obj/Debug/net6.0/Task.AssemblyInfo.cs
+/Users/sergejnikolaev/Desktop/ControlWork/Task/obj/Debug/net6.0/Task.csproj.CoreCompileInputs.cache
+/Users/sergejnikolaev/Desktop/ControlWork/Task/obj/Debug/net6.0/Task.dll
+/Users/sergejnikolaev/Desktop/ControlWork/Task/obj/Debug/net6.0/refint/Task.dll
+/Users/sergejnikolaev/Desktop/ControlWork/Task/obj/Debug/net6.0/Task.pdb
+/Users/sergejnikolaev/Desktop/ControlWork/Task/obj/Debug/net6.0/Task.genruntimeconfig.cache
+/Users/sergejnikolaev/Desktop/ControlWork/Task/obj/Debug/net6.0/ref/Task.dll
